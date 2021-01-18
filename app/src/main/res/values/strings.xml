@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Socio App</string>
+    <string name="facebook_app_id">3637936679596602</string>
+    <string name="fb_login_protocol_scheme">fb3637936679596602</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">UkchJnrlE2yTPJKN9IF8qOsvE</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">6alrp2HyvvoscEnQc2cJL1cwbmQdjL4EdBzNKpr6VAqtYlraSJ</string>
+
+</resources>
